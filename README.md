@@ -30,6 +30,10 @@ After compiling the code, and running it against some test examples (age is not 
 
 ![Lamda](Images/lamda.PNG)
 
+Rerunning our new chatbot AI, we get the following:
+
+![RoboAdvisorDemoNew](Images/RoboAdvisorDemoNew_GIF.gif)
+
 
 ---
 
