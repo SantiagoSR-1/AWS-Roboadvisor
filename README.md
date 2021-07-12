@@ -6,7 +6,7 @@ Purpose of this exercise was to create a interactive chatbot AI that can designa
 
 * Does the user have a minimum amount of $5,000 to invest?
 
-* What category of risk does this user most closely identify with (None, Low, Medium, High)
+* What category of risk does this user most closely identify with (None, Low, Medium, High) ?
 
 Bot setup begins with Amazon’s Lex bot interface, where we provide some sample initial statements that will trigger the bot to activate and continue in its script.
 
